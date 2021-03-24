@@ -1,5 +1,5 @@
 # Ethereal-ICO
-- Smart Contract for [Ethereal].(https://github.com/arshalsoren/Ethereal)
+- Smart Contract for [Ethereal](https://github.com/arshalsoren/Ethereal).
 - Invest in Ethereal. (NOT RECOMMENDED)
 
 ## Requirements
